@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayabee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYABULELA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### Full-Stack Developer | Android & Web
+### BCom Computer Science & Information Systems Student | Aspiring Software Developer
 
-*Building real apps from database to UI*
+*Building mobile, web and backend applications with Java, C#, Spring Boot and MySQL.*
 
 [![GitHub](https://img.shields.io/badge/Ayabee--creator-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayabee-creator)
 ![Views](https://komarev.com/ghpvc/?username=Ayabee-creator&color=6C63FF&style=flat-square&label=Profile+Views)
@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Ayabee
+name: Ayabulela Mtwesi
 role: Student Developer
 focus: Full-Stack (Mobile + Backend + Web)
 currently_building: StudyGrid - E-commerce platform for students
